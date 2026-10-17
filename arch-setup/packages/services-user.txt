@@ -1,0 +1,3 @@
+pipewire.service
+wireplumber.service
+xdg-user-dirs.service

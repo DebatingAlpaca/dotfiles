@@ -1,0 +1,20 @@
+[
+    {
+        "label": "hibernate",
+        "action": "systemctl hibernate",
+        "text": "Hibernar",
+        "keybind": "h"
+    },
+    {
+        "label": "reboot",
+        "action": "systemctl reboot",
+        "text": "Reiniciar",
+        "keybind": "r"
+    },
+    {
+        "label": "shutdown",
+        "action": "systemctl poweroff",
+        "text": "Desligar",
+        "keybind": "s"
+    }
+]
