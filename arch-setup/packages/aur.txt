@@ -1,0 +1,8 @@
+ebgaramond-otf
+gtk-engine-murrine
+pokemon-colorscripts-git
+ttf-victor-mono
+wallust
+wlogout
+yay-bin
+yay-bin-debug
